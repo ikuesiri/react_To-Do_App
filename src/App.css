@@ -13,7 +13,7 @@ body {
 
 .addTask {
   height: 20vh;
-  background-color: dodgerblue;
+  background-color: rgb(15, 168, 179);
   width: 100%;
   display: flex;
   justify-content: center;
